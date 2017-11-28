@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fltk_sample_proj", "fltk_sample_proj\fltk_sample_proj.vcxproj", "{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Debug|x64.ActiveCfg = Debug|x64
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Debug|x64.Build.0 = Debug|x64
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Debug|x86.ActiveCfg = Debug|Win32
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Debug|x86.Build.0 = Debug|Win32
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Release|x64.ActiveCfg = Release|x64
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Release|x64.Build.0 = Release|x64
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Release|x86.ActiveCfg = Release|Win32
+		{4844204F-D0F8-4A96-B74E-5D1B2AE8D678}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACC9EDD-35DC-4879-BA0C-881FF4A5BE83}
+	EndGlobalSection
+EndGlobal
